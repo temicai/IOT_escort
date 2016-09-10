@@ -6,5 +6,5 @@ only backend code for the system
 
 write by C/C++ 
 
-receiver_service,parser_server,message midware,access_service 
+the whole system is combine with three part: receiver&parser service,message midware,access service 
 
